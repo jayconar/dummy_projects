@@ -20,3 +20,13 @@ def factorial(n):
 
 levels = 5
 pascals_triangle(levels)
+
+# Problem:
+# Print the following pattern
+#      1
+#     1 1
+#    1 2 1
+#   1 3 3 1
+#  1 4 6 4 1
+#
+# Observe how the numbers in the triangle are calculated.

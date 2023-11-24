@@ -25,3 +25,7 @@ def summary(file_path):
 
 
 summary('sample.txt')
+
+# Problem:
+# Read from a file and count the number of unique 4-letter words and the number of occurrences for each word.
+# Write this information at the end of the file under the heading "Summary of 4-letter words"

@@ -44,3 +44,12 @@ least_failed_dept = min(dept_data, key=lambda department: dept_data[department][
 
 print(f"\nDepartment with the best average mark: {best_avg_dept}")
 print(f"Department with the least number of failed students: {least_failed_dept}")
+
+# Problem:
+# In your school, Python is taught in 3 different classes by the same professor.
+# For each class, get the number of students studying Python and their marks in the final exam
+# Get the input as comma separated string
+# Find the top 3 marks in each class
+# Find the top 3 marks in all classes are combined.
+# Find the avg mark of students with passing mark in each class and the classes combined.
+# Find which class has the best average mark and least number of failed students.

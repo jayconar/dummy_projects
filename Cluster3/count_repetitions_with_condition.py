@@ -16,3 +16,13 @@ def count_consecutive_the(file_path):
 
 
 print(count_consecutive_the('sample.txt'))
+
+# Problem:
+# Read a passage from a file.
+# Count the number of times the word 'the' followed by another 'the' without 'a' in between.
+#
+# eg: The king went to the forest with the lady and a servant.
+# The king shot a deer.
+# The king went to the forest again the next day.
+#
+# answer is 4 (The king, the forest, The King the next).
